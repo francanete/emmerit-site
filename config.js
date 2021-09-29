@@ -1,15 +1,16 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter directive', // <title>
+  siteTitle: 'Emmerit Business Consulting', // <title>
   manifestName: 'directive',
-  manifestShortName: 'Landing', // max 12 characters
+  manifestShortName: 'Corporate Site', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-directive/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Hi! I am Anubhav Srivastava',
-  subHeading: 'Full time Web Developer. Part time Open source contributor  ',
+  heading: 'International Trade Made Digital',
+  subHeading:
+    'El Siguiente Paso En La Expansión Internacional De Tu Empresa Es Online.',
   // social
   socialLinks: [
     {
